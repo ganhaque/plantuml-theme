@@ -11,7 +11,7 @@
 ' !$color_bg       = "#282c34"
 ' !$color_bg_light = "#424856"
 !$color_bg       = "#101418"
-!$color_bg_light = "#1a1d21"
+!$color_bg_light = "#23262a"
 
 !$base00 = "#101418"
 !$base01 = "#1a1d21"
